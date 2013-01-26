@@ -1,0 +1,4 @@
+Download-Temple-Run-2-for-Android
+=================================
+
+ A Sequel to Hit is here and yes we are talking of none other than the most popular game in Android platform, Temple Run. Just few days after Temple Run 2’s availability in IOS, it’s all here for download in Android as well.   So, let’s brief you with all the features and highlight of this all new version of Temple Run. With the new Temple Run, you can make the most with more number of exhilarating running, jumping, turning and sliding and also you can navigate all the previous cliffs, zip lines, mines and forests as you try to escape with the cursed idol....(Read More) via: http://android-developers-official.blogspot.com/2013/01/download-temple-run-2-for-android-now.html
